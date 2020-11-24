@@ -1,5 +1,5 @@
 # FitBFP-Calculator
-FitBFP Calculator is an iOS app that helps individuals calculate their body fat percentage based on gender, age, height, and weight measurements. The results inform the user where their percentage is ranked. Check out where you're ranked at today. 
+FitBFP Calculator allows individuals calculate their body fat percentage using their gender, age, height, and weight measurements. The results inform the user where their percentage is ranked. Check out where you're ranked at today. 
 
 Technologies Used: Swift, Xcode
 
