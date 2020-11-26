@@ -5,7 +5,7 @@ Technologies Used: Swift, Xcode
 
 Platform: iOS
 
-<img src="https://user-images.githubusercontent.com/46203817/98313549-b611a880-1f99-11eb-927d-cc156061958d.png" width="450" height="450"/><img src="https://user-images.githubusercontent.com/46203817/98313599-d2ade080-1f99-11eb-91de-789234d9bca9.png" width="450" height="450"/> 
+<img src="https://user-images.githubusercontent.com/46203817/98313549-b611a880-1f99-11eb-927d-cc156061958d.png" width="450" height="450"/> <img src="https://user-images.githubusercontent.com/46203817/98313599-d2ade080-1f99-11eb-91de-789234d9bca9.png" width="450" height="450"/> 
 
 
 
@@ -29,4 +29,4 @@ Technologies Used: Swift, Xcode, CreateML
 
 Platform: iOS
 
-<img src="https://user-images.githubusercontent.com/46203817/100156216-26f80200-2e6e-11eb-883b-a9217e90a5d0.png" width="450" height="450"/><img src="https://user-images.githubusercontent.com/46203817/100156210-2495a800-2e6e-11eb-8c50-cc3539dcffb4.png" width="450" height="450"/> 
+<img src="https://user-images.githubusercontent.com/46203817/100156216-26f80200-2e6e-11eb-883b-a9217e90a5d0.png" width="450" height="450"/> <img src="https://user-images.githubusercontent.com/46203817/100156210-2495a800-2e6e-11eb-8c50-cc3539dcffb4.png" width="450" height="450"/> 
