@@ -1,4 +1,4 @@
-###Privacy Policy of github.com/BDoGG12/Portfolio
+### Privacy Policy of github.com/BDoGG12/Portfolio
 This Application collects some Personal Data from its Users.
 
 
@@ -6,14 +6,14 @@ This document contains a section dedicated to Californian consumers and their pr
 
 This document can be printed for reference by using the print command in the settings of any browser.
 
-##Owner and Data Controller
+## Owner and Data Controller
 Benjamin Do
 404 North White Deer Trail, Vernon Hills IL 60061
 United States
 
 Owner contact email: bdo.appworkshop@gmail.com
 
-##Types of Data collected
+## Types of Data collected
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Camera permission; Approximate location permission (non-continuous).
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
@@ -24,12 +24,12 @@ Any use of Cookies – or of other tracking tools – by this Application or by 
 
 Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
 
-##Mode and place of processing the Data
+## Mode and place of processing the Data
 #Methods of processing
 The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-#Legal basis of processing
+# Legal basis of processing
 The Owner may process Personal Data relating to Users if one of the following applies:
 
 Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
@@ -39,7 +39,7 @@ processing is related to a task that is carried out in the public interest or in
 processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-#Place
+# Place
 The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
 
 Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
@@ -48,7 +48,7 @@ Users are also entitled to learn about the legal basis of Data transfers to a co
 
 If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
-#Retention time
+# Retention time
 Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
 Therefore:
@@ -59,12 +59,12 @@ The Owner may be allowed to retain Personal Data for a longer period whenever th
 
 Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
-##The purposes of processing
+## The purposes of processing
 The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Hosting and backend infrastructure and Device permissions for Personal Data access.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
-##Device permissions for Personal Data access
+## Device permissions for Personal Data access
 Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
 
 By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
@@ -74,31 +74,31 @@ Please note that the revoking of such permissions might impact the proper functi
 
 If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
 
-#Approximate location permission (non-continuous)
+# Approximate location permission (non-continuous)
 Used for accessing the User's approximate device location. This Application may collect, use, and share User location Data in order to provide location-based services.
 The geographic location of the User is determined in a manner that isn't continuous. This means that it is impossible for this Application to derive the approximate position of the User on a continuous basis.
 
-#Camera permission
+# Camera permission
 Used for accessing the camera or capturing images and video from the device.
 
-##Detailed information on the processing of Personal Data
+## Detailed information on the processing of Personal Data
 Personal Data is collected for the following purposes and using the following services:
 
-#Device permissions for Personal Data access
+# Device permissions for Personal Data access
 This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
 
-#Device permissions for Personal Data access (this Application)
+# Device permissions for Personal Data access (this Application)
 This Application requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
 Personal Data processed: Approximate location permission (non-continuous); Camera permission.
 
-#Category of personal data collected according to CCPA: internet information; geolocation data.
+# Category of personal data collected according to CCPA: internet information; geolocation data.
 
-#Hosting and backend infrastructure
+# Hosting and backend infrastructure
 This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application.
 
 Some services among those listed below, if any, may work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
 
-#GitHub Pages (GitHub Inc.)
+# GitHub Pages (GitHub Inc.)
 GitHub Pages is a hosting service provided by GitHub, Inc.
 Personal Data processed: various types of Data as specified in the privacy policy of the service.
 
@@ -106,7 +106,7 @@ Place of processing: United States – Privacy Policy.
 
 Category of personal data collected according to CCPA: internet information.
 
-##The rights of Users
+## The rights of Users
 Users may exercise certain rights regarding their Data processed by the Owner.
 
 In particular, Users have the right to do the following:
@@ -127,52 +127,52 @@ Receive their Data and have it transferred to another controller. Users have the
 
 Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.
 
-#Details about the right to object to processing
+# Details about the right to object to processing
 
 Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
 
 Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
-#How to exercise these rights
+# How to exercise these rights
 Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 
-##Cookie Policy
+## Cookie Policy
 This Application uses Trackers. To learn more, the User may consult the Cookie Policy.
 
-##Additional information about Data collection and processing
-#Legal action
+## Additional information about Data collection and processing
+# Legal action
 The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.
 The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
 
-#Additional information about User's Personal Data
+# Additional information about User's Personal Data
 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
 
-#System logs and maintenance
+# System logs and maintenance
 For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose.
 
-#Information not contained in this policy
+# Information not contained in this policy
 More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
 
-#How “Do Not Track” requests are handled
+# How “Do Not Track” requests are handled
 This Application does not support “Do Not Track” requests.
 To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
 
-#Changes to this privacy policy
+# Changes to this privacy policy
 The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Application and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
 
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
-##Information for Californian consumers
+## Information for Californian consumers
 This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
 
 The provisions contained in this section apply to all Users who are consumers residing in the state of California, United States of America, according to "The California Consumer Privacy Act of 2018" (Users are referred to below, simply as “you”, “your”, “yours”), and, for such consumers, these provisions supersede any other possibly divergent or conflicting provisions contained in the privacy policy.
 
 This part of the document uses the term “personal information“ as it is defined in The California Consumer Privacy Act (CCPA).
 
-#Categories of personal information collected, disclosed or sold
+# Categories of personal information collected, disclosed or sold
 In this section we summarize the categories of personal information that we've collected, disclosed or sold and the purposes thereof. You can read about these activities in detail in the section titled “Detailed information on the processing of Personal Data” within this document.
 
-#Information we collect: the categories of personal information we collect
+# Information we collect: the categories of personal information we collect
 We have collected the following categories of personal information about you: internet information and geolocation data.
 
 We will not collect additional categories of personal information without notifying you.
@@ -182,7 +182,7 @@ We collect the above mentioned categories of personal information, either direct
 
 For example, you directly provide your personal information when you submit requests via any forms on this Application. You also provide personal information indirectly when you navigate this Application, as personal information about you is automatically observed and collected. Finally, we may collect your personal information from third parties that work with us in connection with the Service or with the functioning of this Application and features thereof.
 
-#How we use the information we collect: sharing and disclosing of your personal information with third parties for a business purpose
+# How we use the information we collect: sharing and disclosing of your personal information with third parties for a business purpose
 We may disclose the personal information we collect about you to a third party for business purposes. In this case, we enter a written agreement with such third party that requires the recipient to both keep the personal information confidential and not use it for any purpose(s) other than those necessary for the performance of the agreement.
 
 We may also disclose your personal information to third parties when you explicitly ask or authorize us to do so, in order to provide you with our Service.
