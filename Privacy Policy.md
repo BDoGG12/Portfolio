@@ -1,4 +1,4 @@
-### Privacy Policy of github.com/BDoGG12/Portfolio
+# Privacy Policy of github.com/BDoGG12/Portfolio
 This Application collects some Personal Data from its Users.
 
 
